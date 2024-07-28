@@ -9,4 +9,4 @@
 **-- _OutputData_FlexuralFailure.txt_**: Output data for quantitative multi-level (4) drift ratio limit states for corroded RC columns with the flexural failure mode.
 
 ###### References:
-###### Xu B., Wang X., Yang C.S., and Li Y. (202X) “Machine learning-aided rapid estimation of multi-level capacity of flexure-identified circular concrete bridge columns with corroded reinforcement.” Journal of Structural Engineering, R1 under review
+###### Xu B., Wang X., Yang C.S., and Li Y. (2024) “Machine learning-aided rapid estimation of multi-level capacity of flexure-identified circular concrete bridge columns with corroded reinforcement.” Journal of Structural Engineering, 150(3): 04024002. DOI: 10.1061/JSENDH.STENG-12718
