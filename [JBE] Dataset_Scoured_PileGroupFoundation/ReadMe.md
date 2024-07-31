@@ -1,5 +1,5 @@
-# This dataset is for the data paper entitled "Dataset from Quasi-static Cyclic Tests of Scoured 2×3 Pile-Group Foundations for Bridge Structures" submitted to Journal of Bridge Engineering
+# This dataset is for the enclosed file for the data paper entitled "Dataset from Quasi-static Cyclic Tests of Scoured 2×3 Pile-Group Foundations for Bridge Structures" submitted to the Journal of Bridge Engineering
 ###### Contributors: Zeanran Huang, Aijun Ye, and Xiaowei Wang
 
 ###### Reference:
-###### Huang, Z., Ye, A., Wang, X. 202X. Data Set from Quasi-static Cyclic Tests of Scoured 2×3 Pile-Group Foundations for Bridge Structures. Journal of Bridge Engineering. Under Review.
+###### Huang, Z., Ye, A., Wang, X. 202X. Data Set from Quasi-static Cyclic Tests of Scoured 2×3 Pile-Group Foundations for Bridge Structures. Journal of Bridge Engineering. Under Review. Submission ID: BEENG-7230.
