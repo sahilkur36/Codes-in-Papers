@@ -8,6 +8,10 @@
 ###### Python Code of a machine learning model for rapid estimates of multi-level curvature capacity of circular reinforced concrete section in Wang et al. (2022):
 ##### Wang X, Yuan X, Feng R, Dong Y (2022) "Data‐driven probabilistic curvature capacity modeling of circular RC columns facilitating seismic fragility analyses of highway bridges." Earthq Eng Resilience, 1, 211–224. https://doi.org/10.1002/eer2.14
 
+## [[EQS]_RestorationModels](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BEQS%5D_RestorationModels)
+###### Survey questionnaire for expert opinions on component restoration models and information of adopted ground motions for finite element analyses of the case study on resilience assessment of a typical highway bridge.
+##### Wang X., Ye A., Yang D., Wu X., Zhou L., Song K., Li J., Peng J., Lou L., Wei X. (202X) “Component restoration models of highway bridges for resilience assessment: A nationwide expert-opinion survey study and application.” Earthquake Spectra. Submission ID: EQS-24-0027R1 (in re-review).
+
 ## [[JBE]_DuctilityIndex_ScouredBridgeFoundation](https://github.com/wxw115/Codes-in-Papers/tree/Default/%5BJBE%5D_DuctilityIndex_ScouredBridgeFoundation)
 ###### Spredsheets for the database and the proposed Classification-Regression Combination Model (CRCM) for ductility index prediction of scoured bridge pile-group foundations at the easy-to-repair limit state, as detailed in Wang et al. (2023):
 ##### Wang J, Ye A, and Wang X (2023) “Quantifying easy-to-repair displacement ductility and lateral strength of scoured bridge pile-group foundations in cohesionless soils: A classification-regression combination surrogate model.” Journal of Bridge Engineering, Accepted in press. https://doi.org/10.1061/JBENF2/BEENG-6201
