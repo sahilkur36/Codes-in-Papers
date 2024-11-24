@@ -6,6 +6,6 @@ This folder contains:
 
 The related paper submitted to Earthquake Spectra:
 
-Wang X., Ye A., Yang D., Wu X., Zhou L., Song K., Li J., Peng J., Lou L., Wei X. (202X) “Component restoration models of highway bridges for resilience assessment: A nationwide expert-opinion survey study and application.” Earthquake Spectra. https://doi.org/10.1177/87552930241290487
+Wang X., Ye A., Yang D., Wu X., Zhou L., Song K., Li J., Peng J., Lou L., Wei X. (2024) “Component restoration models of highway bridges for resilience assessment: A nationwide expert-opinion survey study and application.” Earthquake Spectra (Online First). https://doi.org/10.1177/87552930241290487
 
 Contact: xiaoweiwang@tongji.edu.cn (Xiaowei WANG)
